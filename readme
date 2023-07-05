@@ -1,0 +1,13 @@
+##Note App
+This is a simple note-taking application built using HTML, CSS, and JavaScript. It allows users to create, edit, and delete notes.
+
+##Features
+The Note App provides the following features:
+
+Create a new note: Click on the "New Note" button, and a new note will be added to the list.
+Edit a note: Click on the note you want to edit, make changes, and click the "Save" button to save the changes.
+Delete a note: Click on the "Delete" button next to the note you want to delete, and the note will be removed from the list.
+Persist data: The notes are stored in the browser's local storage, allowing them to persist even if you close the browser or refresh the page.
+
+##License
+This project is licensed under the MIT License.
